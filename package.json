@@ -1,0 +1,23 @@
+{
+  "name": "oolon-mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cullophid/oolon-mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cullophid/oolon-mongo/issues"
+  },
+  "homepage": "https://github.com/cullophid/oolon-mongo#readme",
+  "dependencies": {
+    "mongodb": "^2.1.3",
+    "simple-promisify": "^1.0.1"
+  }
+}
