@@ -41,6 +41,10 @@ db.collection('users').find(query)
 // ]
 ```
 
+## Why?
+
+Writing declarative queries are much simpler and requires much less code.
+
 ## Support
 
 currently we only support `find` and `findOne`, and the query properties
