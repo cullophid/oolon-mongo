@@ -1,2 +1,2 @@
-export default connection => ({$options}) =>
-   connection.stats($options)
+module.exports = connection => query =>
+   connection.stats(query.$options)
